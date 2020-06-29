@@ -15,5 +15,5 @@ jobs:
           KEY: ${{ secrets.KEY }}
         with:
           source: "./*"
-          target: "/home/AzureUser/public_html"
+          target: "/home/staging.ben/public_html"
           strip_components: 1
