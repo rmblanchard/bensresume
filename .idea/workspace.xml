@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a99fb4b7-83d3-43ab-ba47-b5e3681def66" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/php-staging.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/php-staging.yml" afterDir="false" />
-    </list>
+    <list default="true" id="a99fb4b7-83d3-43ab-ba47-b5e3681def66" name="Default Changelist" comment="changing email address" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="SvnConfiguration">
@@ -55,6 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593418973076</updated>
       <workItem from="1593418974404" duration="6165000" />
+      <workItem from="1593433011374" duration="868000" />
     </task>
     <task id="LOCAL-00001" summary="Changed Ryan to Ben on index.html">
       <created>1593419307296</created>
@@ -63,7 +63,28 @@
       <option name="project" value="LOCAL" />
       <updated>1593419307296</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="testing">
+      <created>1593433081830</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593433081830</updated>
+    </task>
+    <task id="LOCAL-00003" summary="testing 2">
+      <created>1593433103811</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593433103811</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changing email address">
+      <created>1593435928729</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1593435928729</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,9 +100,19 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changed Ryan to Ben on index.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed Ryan to Ben on index.html" />
+    <MESSAGE value="testing" />
+    <MESSAGE value="testing 2" />
+    <MESSAGE value="changing email address" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing email address" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1593433108884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593433108884" />
   </component>
 </project>
